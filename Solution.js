@@ -51,5 +51,4 @@ class FixEquation {
 }
 
 var fixEquation = new FixEquation()
-
 fixEquation.missingDigit("42 * 47 + ? = 1976")
